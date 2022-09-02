@@ -36,7 +36,7 @@ int main() {
     int newFiveRest = newTenRest%5;
     int newOne = newFiveRest;
 
-    cout << "NOTAS:" << endl
+    cout << "NOTAS:" << endl;
     cout << hundrade << " nota(s) de R$ 100.00" << endl;
     cout << fiftys << " nota(s) de R$ 50.00" << endl;
     cout << twenties << " nota(s) de R$ 20.00" << endl;
