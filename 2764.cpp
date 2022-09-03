@@ -1,6 +1,4 @@
 
-
-
 #include <iostream>
 #include <iomanip>
 #include <bits/stdc++.h>
